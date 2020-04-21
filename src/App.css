@@ -1,0 +1,11 @@
+body {
+    font-family: "Roboto Slab", serif;
+    font-family: "Roboto", sans-serif;
+    padding: 20px 60px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
