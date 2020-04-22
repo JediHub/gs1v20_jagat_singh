@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project can be seen live on https://jedihub.github.io/gs1v20_jagat_singh/
+
 ## Available Scripts
 
 In the project directory, you can run:
